@@ -15,4 +15,4 @@ For Windows 7-zip is the standard.
 For Linux try the p7zip utility.  sudo apt-get install p7zip.
 
 Project requirements
-I will be performing 4 different sections of analysis on the San Francisco data.
+I will perform 4 different analyses on the San Francisco data.
