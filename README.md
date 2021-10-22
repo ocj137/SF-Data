@@ -2,7 +2,11 @@
 
 San Francisco provides a wealth of data on the city for public use. This project explores this data and modeles interesting relationships with regression.
 
+<<<<<<< HEAD
 Some notes on the data used
+=======
+Here are some notes on the data
+>>>>>>> 4ddc9dd929d07bdf9444628db6afcb02cf0a5952
 
 I have gone through the above website and pulled out a variety of different datasets that we think are particularly interesting. Some of the datasets are from external sources as well, but all are related to San Francisco. A high level overview of data folders is provided after the project requirements section.
 There is a lot of different data. The point of the project is to focus on aspects of San Francisco that are particularly interesting to me from a modeling point of view.
