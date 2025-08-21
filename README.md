@@ -1,6 +1,6 @@
 # SF-Data
 
-So San Francisco provides a wealth of data on the city for public use. This project explores this data and modeles interesting relationships with regression.
+San Francisco provides a wealth of data on the city for public use. This project explores this data and modeles interesting relationships with regression.
 
 Here are some notes on the data used
 
